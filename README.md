@@ -17,7 +17,6 @@ A full-stack video management platform built with Next.js, TypeScript, and Image
 - Dedicated watch page for playback
 - Automatic thumbnail generation
 - Video quality optimization and transformations
-- Responsive UI with Tailwind CSS
 - Built with Next.js App Router and TypeScript
 
 ## Tech Stack
