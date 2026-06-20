@@ -1,32 +1,30 @@
 # Next.js Video Player
 
 <p align="center">
-  <img src="./public/preview1.png" alt="Video Library" width="800" />
+  <img src="./public/assets/preview1.png" alt="Video Library" width="800" />
   <br /><br />
-  <img src="./public/preview2.png" alt="Upload Video" width="800" />
+  <img src="./public/assets/preview2.png" alt="Upload Page" width="800" />
   <br /><br />
-  <img src="./public/preview3.png" alt="Watch Video" width="800" />
+  <img src="./public/assets/preview3.png" alt="Watch Page" width="800" />
 </p>
 
-A video management platform built with Next.js, TypeScript, and ImageKit. Users can upload videos, browse them in a video library, and watch them through a dedicated playback page with ImageKit-powered optimization and transformations.
+A full-stack video management platform built with Next.js, TypeScript, and ImageKit. The application allows users to upload videos, manage them through a video library, and watch them on a dedicated playback page with optimized delivery powered by ImageKit.
 
 ## Features
 
 - Upload videos directly to ImageKit
-- Browse videos in a clean library interface
-- Dedicated watch page for video playback
+- Browse videos in a video library
+- Dedicated watch page for playback
 - Automatic thumbnail generation
-- Video quality and format transformations
-- Responsive UI built with Tailwind CSS
-- Type-safe development with TypeScript
+- Video quality optimization and transformations
+- Responsive UI with Tailwind CSS
+- Built with Next.js App Router and TypeScript
 
 ## Tech Stack
 
 - Next.js
 - TypeScript
-- Tailwind CSS
 - ImageKit
-- Node.js
 
 ## Getting Started
 
@@ -47,8 +45,8 @@ IMAGEKIT_PRIVATE_KEY=your_private_key
 
 ## About
 
-This project was built to explore media handling in Next.js, including video uploads, optimized delivery, thumbnail generation, and dynamic transformations using ImageKit.
+This project explores media management in Next.js, including video uploads, optimized streaming, thumbnail generation, and dynamic video transformations using ImageKit.
 
 ## Tags
 
-`nextjs` `typescript` `tailwindcss` `imagekit` `video-player` `video-streaming` `media-management` `app-router` `full-stack` `web-development`
+`nextjs` `typescript` `tailwindcss` `imagekit` `video-player` `video-streaming` `media-management` `app-router` `full-stack` `react`
